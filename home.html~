@@ -1,26 +1,15 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Home Pages</title>
+		<title>Home Page</title>
 		<style>
-		.ali {
-			color: red;
-		}
 		</style>
 	</head>
-	<body>
-		<a href="http://google.com">Go to Google</a>
-		<ul>
-			<li>a</li>
-			<li>b</li>
-			<li>c</li>
-		</ul>
-		<p style="color: #FF00FF">heeloo</p><br><br>
-		<form>
-			<input name="a" type="text">
-			<input type="submit" value="a">
-			<input type="radio" name="b">Hello<br>
-			<input type="radio" name="b">Goodbye<br>
-		</form>
+	<body style="text-align: center">
+		<h1> Welcome to Shaltiel Shmidman's Site </h1>
+		<img src="me.jpg"><br>
+		<a href="home.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="about.html">About Me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="contact.html">Contact Me</a><br>
 	</body>
 </html>

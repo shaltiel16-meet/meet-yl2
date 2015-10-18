@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Contact Me</title>
+		<style>
+		</style>
+	</head>
+	<body style="text-align: center">
+		<h1> Welcome to Shaltiel Shmidman's Site - Contact Me </h1><br><br>
+		<h2> Please fill in the information below:</h2>
+		<form>
+			<h3> Name: </h3>
+			<input type="text" name="name"><br>
+			<h3> Subject of request: </h3>
+			<input type="text" name="subj"><br>
+			<h3> Description of request: </h3>
+			<input type="text" name="body" col="40" row="6"><br>
+			<h3> For security reasons - pick your gender: </h3>
+			<input type="radio" name="male">Male&nbsp;&nbsp;&nbsp;
+			<input type="radio" name="female">Female<br><br>
+			<input type="submit" value="Submit Contact Request">
+		</form>
+		<a href="home.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="about.html">About Me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="contact.html">Contact Me</a><br>
+	</body>
+</html>
